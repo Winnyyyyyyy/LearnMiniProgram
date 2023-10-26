@@ -1,0 +1,5 @@
+<!--pages/home/home.wxml-->
+<text class="title">hello world</text>
+<button>zwh</button>
+<image src="WechatIMG126.jpg" mode=""/>
+<text>@weihaozhong(钟伟豪)</text>
